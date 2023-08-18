@@ -10,7 +10,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* André Alves Leoacadio
+* Andre Alves Leocadio
 * Ricky Ramos de Oliveira
 * Renato Donizeti da Silva Junior
 * Lucas Brito de Paula
