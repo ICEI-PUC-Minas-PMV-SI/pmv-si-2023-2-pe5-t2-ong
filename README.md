@@ -1,4 +1,4 @@
-# Título do Projeto
+#Projeto ONG
 
 `CURSO: Sistemas de Informação`
 
@@ -6,7 +6,7 @@
 
 `Eixo: 5`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Nosso projeto é voltado a criação uma rede de infraestrutura completa completa para uma ONG. A organização dispõe de uma Matriz e três filiais que vão estar conectadas entre si. A infraestrutura está divida, parte dos recursos estão hospedados em nuvem e parte em um servidor físico.
 
 ## Integrantes
 
