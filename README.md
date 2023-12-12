@@ -10,6 +10,8 @@ Nosso projeto é voltado a criação uma rede de infraestrutura completa complet
 
 [Documento oficial aqui](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t2-ong/blob/main/docs/entrega_documento_5.pdf)
 
+[Slides apresentação](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe5-t2-ong/blob/main/docs/Apresenta%C3%A7%C3%A3o%20Eixo%205%20-%20ONG.pdf)
+
 ## Integrantes
 
 * Andre Alves Leocadio
